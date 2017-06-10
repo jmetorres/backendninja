@@ -68,7 +68,11 @@
             <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
         
-        
+        <dependency> 
+		    <groupId>com.sap</groupId> 
+		    <artifactId>sap-jco</artifactId> 
+		    <version>3.0.1</version> 
+		</dependency> 
         
 
 
